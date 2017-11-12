@@ -1,0 +1,20 @@
+{
+  "name": "render-react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arenderutsa/render-react-redux.git"
+  },
+  "keywords": [],
+  "author": "Alton Render",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arenderutsa/render-react-redux/issues"
+  },
+  "homepage": "https://github.com/arenderutsa/render-react-redux#readme"
+}
